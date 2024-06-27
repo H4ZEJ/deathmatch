@@ -9,8 +9,6 @@
 #include "buffer_manager.h"
 #include "packet.h"
 #include "desc_client.h"
-#include "guild.h"
-#include "guild_manager.h"
 #include "char_manager.h"
 #include "questmanager.h"
 #include "start_position.h"
